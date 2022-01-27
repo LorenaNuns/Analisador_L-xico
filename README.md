@@ -1,2 +1,2 @@
-# Analisador_L-xico
+# Analisador_Lexico
 Analisador Léxico feito na Linguagem Java
